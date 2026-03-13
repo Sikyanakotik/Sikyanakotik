@@ -1,6 +1,6 @@
 ## Patrick D. Reding 
 
-As a highly resourceful mathematician and software developer with seven years of experience, I have developed strong programming and algorithm development skills, particularly in the field of satellite and communications systems. I have a proven ability to develop software in Python, MATLAB, and C++, a strong foundation in algorithm development, machine learning, and optimization, and solid skills in technical writing and copy editing. I am seeking a challenging role where I can leverage my existing skills and develop new ones to find novel solutions to interesting problems.
+As a highly resourceful mathematician and software developer with seven years of work experience, I have developed strong programming and algorithm development skills, particularly in the field of satellite and communications systems. I have a proven ability to develop software in Python, MATLAB, and C++, a strong foundation in algorithm development, machine learning, and optimization, and solid skills in technical writing and copy editing. I am seeking a challenging role where I can leverage my existing skills and develop new ones to find novel solutions to interesting problems.
 
 ### SOFTWARE SKILLS:
 -	Programming languages: Python, JavaScript/TypeScript, MATLAB, C++, C#, Java, PHP
